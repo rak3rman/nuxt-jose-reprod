@@ -2,6 +2,11 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+**NOTE: COMMAND THAT PRODUCES ERROR**
+```
+NITRO_PRESET=cloudflare npm run build
+```
+
 ## Setup
 
 Make sure to install the dependencies:
